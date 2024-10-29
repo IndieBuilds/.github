@@ -2,9 +2,9 @@
 
 ### Quick Links
 
-[Public Finances]("https://github.com/IndieBuilds/finances")
+[Public Finances](https://github.com/IndieBuilds/finances)
 
-[Public Roadmap (Trello)]("https://trello.com/b/cvvg1YHV/indiebuilds-roadmap")
+[Public Roadmap (Trello)](https://trello.com/b/cvvg1YHV/indiebuilds-roadmap)
 
 
 
