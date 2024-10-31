@@ -2,11 +2,26 @@
 
 ### Quick Links
 
-[Public Finances](https://github.com/IndieBuilds/finances)
+[IndieFold](https://indiefold.com) - IndieBuilds' sister app!
 
-[Public Roadmap (Trello)](https://trello.com/b/cvvg1YHV/indiebuilds-roadmap)
+<a href="https://indiefold.com">
+<img alt="IndieFold Logo" src="https://indiefold.com/imgs/indiefold_logo_line.png" target="_blank" />
+</a>
+
+[Public Finances](https://github.com/IndieBuilds/finances) - Our public finances.
+
+[Public Roadmap (Trello)](https://trello.com/b/cvvg1YHV/indiebuilds-roadmap) - Our public roadmap
+
+<a href="https://x.com/Indiefold">
+Twitter <br>
+<img width="48" height="48" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter--v1"/>
+</a>
 
 
+<a href="https://bsky.app/">
+BlueSky <br>
+<img width="48" height="48" src="../profile/icons/icons8-butterfly-48.png" alt="twitter--v1"/>
+</a> 
 
 ## What is IndieBuilds? 🤔
 
@@ -14,11 +29,13 @@ IndieBuilds is a marketplace (A game storefront) for indie game developers to pu
 
 ## The Mission and Vision! 🫡
 
-The mission and vision of IndieBuilds is to provide a marketplace where indie game developers can sell their games to their auidence.
+The mission and vision of IndieBuilds is to provide a marketplace where indie game developers can sell their games to their auidence and earn enough to do it agian and agian and dare we say AGAIN!
 
-The types of games allowed on IndieBuilds meets no bounds. Games can range from all sorts of projects such as
+The types of games allowed on IndieBuilds meets no bounds. 
 
-- Free to Play (FTP) demos and games.
+IndieBuilds allows independent game developers
+
+- Distribute their games for free.
 - Commercial games sold for 💸.
 - Demos of commercial or Free to Play games
 
@@ -44,12 +61,17 @@ You will find
 
 - Our public finances. We want to be public about our finances since game developers will be earning a portion 
 
+- Some open source projects that we are happy to release publicly.
+
+<b>Note:</b> If you have issues with indiebuilds the app please contact <a href="mailto:pratik.p@indiefold.com">pratik.p@indiefold.com</a> 
+
+Thanks for stopping by! 👋
 
 <!--
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
+ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
